@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Online Audio Player</string>
+    <string name="new_channel">قناة جديدة</string>
+    <string name="name">الأسم</string>
+    <string name="url">عنوان URL</string>
+    <string name="add">إضافة</string>
+    <string name="play">تشغيل</string>
+    <string name="stop">توقف</string>
+    <string name="edit">تعديل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="welcome">مرحباً</string>
+    <string name="cancel">الغاء</string>
+    <string name="description">الوصف</string>
+    <string name="required">مطلوب</string>
+    <string name="not_valid_url">عنوان URL غير صالح</string>
+    <string name="channel_have_same_url">"قناة %1$s لها نفس عنوان URL"</string>
+    <string name="name_already_exist">هذا الاسم موجود بالفعل</string>
+    <string name="favorite">مفضل</string>
+    <string name="save">احفظ</string>
+    <string name="no_description">بدون وصف</string>
+    <string name="add_channel">إضافة قناة</string>
+    <string name="delete">مسح</string>
+    <string name="dismiss">رفض</string>
+    <string name="delete_channel">مسح قناة</string>
+    <string name="are_you_sure_you_want_to_delete_channel">هل أنت متأكد أنك تريد حذف %1$s؟</string>
+    <string name="network_error">خطأ في الشبكة</string>
+    <string name="unexpected_error_occurred">"حدث خطأ غير متوقع"</string>
+    <string name="url_error">مشكلة في عنوان URL</string>
+    <string name="language">اللغة</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الإنجليزية</string>
+    <string name="no_channels">لا توجد قنوات</string>
+</resources>

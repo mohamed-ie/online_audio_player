@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Online Audio Player</string>
+    <string name="add_channel">Add channel</string>
+    <string name="delete">Delete</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="delete_channel">Delete channel</string>
+    <string name="are_you_sure_you_want_to_delete_channel">Are you sure you want to delete %1$s?</string>
+    <string name="new_channel">New channel</string>
+    <string name="name">Name</string>
+    <string name="url">Url</string>
+    <string name="add">Add</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="edit">Edit</string>
+    <string name="pause">Pause</string>
+    <string name="welcome">Welcome</string>
+    <string name="cancel">Cancel</string>
+    <string name="description">Description</string>
+    <string name="required">Required</string>
+    <string name="not_valid_url">Not valid URL</string>
+    <string name="channel_have_same_url">Channel %1$s have same url</string>
+    <string name="name_already_exist">Name already exist</string>
+    <string name="favorite">Favorite</string>
+    <string name="save">Save</string>
+    <string name="no_description">No description</string>
+    <string name="network_error">Network error</string>
+    <string name="unexpected_error_occurred">Unexpected error occurred</string>
+    <string name="url_error">URL error</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="language">Language</string>
+    <string name="no_channels">No channels</string>
+</resources>
