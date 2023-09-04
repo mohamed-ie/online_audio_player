@@ -18,9 +18,9 @@
 
   
   
-<h2>🧐 Features</h2>
+<h2>Features</h2>
 
-Here're some of the project's best features:
+Here are some of the project's best features:
 
 *   Audio control \[ Play - Pause - Stop \]
 *   Channel \[ Add - Update - Delete - Favorite \]
